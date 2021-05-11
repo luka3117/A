@@ -1,3 +1,5 @@
 # A
 
-<p align="center"><img src ="/gifs/Slide1_test2.png" /></p>
+<p align="center">
+  <img src ="bb.gif" />
+</p>
